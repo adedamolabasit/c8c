@@ -1,0 +1,37 @@
+## Nautilus Files (Python 3.10.1 Flask 2.0.2 Werkzeug 2.0.2)
+this is a landing page C8
+
+This is the C8
+
+## Setup
+
+This section will guide you through the setup process required to get up and running with the application.
+
+### Requirements
+
+-   Python (Version >= 3.10.1)
+
+-   pip (Version >= 21.3.1)
+
+-
+
+### Get Started
+
+1. Clone the project from your account repository.
+
+2. Install and activate virtual environment
+- Run `pip install virtualenv venv`
+- Run `venv/Scripts/activate`
+
+3. Install Flask
+- Run `pip install Flask`
+
+4. Install Dependencies
+` pip install -r requirements.txt
+
+
+### Development
+
+To run the application, use the command: `python app.py`
+
+It is important you are in the **Root Directory** for the command to function
